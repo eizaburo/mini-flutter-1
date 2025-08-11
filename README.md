@@ -1,5 +1,9 @@
 # mini-flutter
 
+## 概要
+
+- form要素をemailのみに絞ったmini版
+
 ## 使い方
 
 - git clone
